@@ -30,4 +30,4 @@ bash start.sh
 
 **المطور**: @yourusername
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateRepo=[https://github.com/hidarfaqeeh/mp3_tag_editor_bot](https://github.com/hidarfaqeeh/mp3_tag_editor_bot.git))
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateRepo=[https://github.com/hidarfaqeeh/mp3_tag_editor_bot)
