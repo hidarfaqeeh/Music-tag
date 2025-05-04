@@ -29,3 +29,5 @@ bash start.sh
 قم بتعديل `config.py` وضع توكن البوت الخاص بك هناك أو استخدم متغيرات بيئة في النظام.
 
 **المطور**: @yourusername
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateRepo=https://github.com/hidarfaqeeh/mp3_tag_editor_bot)
