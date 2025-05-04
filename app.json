@@ -8,5 +8,5 @@
       "description": "Your Telegram bot token from @BotFather"
     }
   },
-  "start": "python3 main.py"
+  "start": "python3 bot.py"
 }
