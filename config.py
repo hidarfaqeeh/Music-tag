@@ -1,5 +1,5 @@
 
-BOT_TOKEN = "ضع_التوكن_هنا"
+BOT_TOKEN = "7923981264:AAHVKordy5JG6WxdEqwBtFZMQWFSodcquVo"
 ADMIN_USERNAME = "@yourchannel"
 DEV_NAME = "اسم المطور"
 LANG = "اللغة: العربية"
